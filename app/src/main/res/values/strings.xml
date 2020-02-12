@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="post">POST</string>
+    <string name="item_user">User</string>
+    <string name="item_title">Title</string>
+    <string name="item_content">Content</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
